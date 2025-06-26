@@ -5,4 +5,4 @@ Projeto desenvolvido como atividade de laboratório ao longo do curso XP Inc. - 
 Testar os conhecimentos obtidos sobre máquinas virtuais na plataforma Microsoft Azure.
 
 # Conclusão
-Máquina virtual criada com sucesso conforme orientações recebidas em laboratório, vide pasta /images para conferência dos prints relacionados.
+Máquina virtual criada com sucesso conforme orientações recebidas em laboratório e disponíveis em https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal, vide pasta /images para conferência dos prints relacionados.
